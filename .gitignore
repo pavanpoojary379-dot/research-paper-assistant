@@ -1,0 +1,22 @@
+# Virtual environments
+env/
+venv/
+
+# Python cache
+__pycache__/
+*.py[cod]
+
+# Environment variables
+.env
+backend/.env
+
+# VS Code
+.vscode/
+
+# Uploads and vector database
+backend/uploads/
+backend/vectorstore/
+
+# OS files
+.DS_Store
+Thumbs.db
